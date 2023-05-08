@@ -4,5 +4,6 @@ It was developed using:
 - Typescript
 - React
 - Bootstrap
-- Firebase, for its NoSQL cloud-hosted document database (now deactivated here), and its CI/CD capabilities.  
+- Firebase, for its NoSQL cloud-hosted document database (now deactivated here), and its CI/CD capabilities.
+
 Artwork has been removed for publication on GitHub.
