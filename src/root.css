@@ -1,0 +1,103 @@
+/* COLOURS */
+
+:root {
+    --cw-pink: #c56c9b;
+    --cw-red: #c97164;
+    --cw-orange: #e79c25;
+    --cw-yellow: #f9f871;
+    --cw-green: #a5ef8c;
+    --cw-teal: #56ddad;
+    --cw-cyan: #02c6c5;
+    --cw-blue: #5e8eb3;
+    --cw-indigo: #7476ab;
+    --cw-purple: #84689f;
+    --cw-gray: #9dadbc;
+    --cw-gray-dark: #343a40;
+    --cw-gold: #d4af37;
+    --cw-lighter: rgba(255, 255, 255, 0.7);
+    --cw-darker: rgba(0, 0, 0, 0.7);
+}
+
+/* TEXT */
+
+a {
+    color: inherit;
+}
+
+.text-lighter {
+    color: var(--cw-lighter);
+}
+
+.text-darker {
+    color: var(--cw-darker);
+}
+
+.text-jost {
+    font-family: "Jost", Arial, Helvetica, sans-serif;
+}
+
+.text-rouge {
+    font-family: "Rouge Script", Arial, Helvetica, sans-serif;
+}
+
+.extra-space {
+    letter-spacing: 0.2em;
+}
+
+/* BACKGROUNDS */
+
+.bg-pink {
+    background-color: var(--cw-pink);
+}
+
+.bg-red {
+    background-color: var(--cw-red);
+}
+
+.bg-orange {
+    background-color: var(--cw-orange);
+}
+
+.bg-yellow {
+    background-color: var(--cw-yellow);
+}
+
+.bg-green {
+    background-color: var(--cw-green);
+}
+
+.bg-teal {
+    background-color: var(--cw-teal);
+}
+
+.bg-cyan {
+    background-color: var(--cw-cyan);
+}
+
+.bg-blue {
+    background-color: var(--cw-blue);
+}
+
+.bg-indigo {
+    background-color: var(--cw-indigo);
+}
+
+.bg-purple {
+    background-color: var(--cw-purple);
+}
+
+.bg-gray {
+    background-color: var(--cw-gray);
+}
+
+.bg-gray-dark {
+    background-color: var(--cw-gray-dark);
+}
+
+.bg-gold {
+    background-color: var(--cw-gold);
+}
+
+.bg-darkish {
+    background-color: #212529dc;
+}
